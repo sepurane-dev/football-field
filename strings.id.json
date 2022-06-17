@@ -10,6 +10,8 @@
 "ui_language":			"Bahasa",
 "ui_reset_progress":	"Setel Ulang Progres",
 "ui_select_team":		"Pilih Tim",
-"ui_select_difficulty":	"Pilih Kesulitan"
+"ui_select_difficulty":	"Pilih Kesulitan",
+"ui_upgrade_power":		"Tenaga",
+"ui_upgrade_stamina":	"Stamina"
 
 }}

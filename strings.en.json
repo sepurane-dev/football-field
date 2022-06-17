@@ -10,6 +10,8 @@
 "ui_language":			"Language",
 "ui_reset_progress":	"Reset Progress",
 "ui_select_team":		"Select Team",
-"ui_select_difficulty":	"Select Difficulty"
+"ui_select_difficulty":	"Select Difficulty",
+"ui_upgrade_power":		"Power",
+"ui_upgrade_stamina":	"Stamina"
 
 }}

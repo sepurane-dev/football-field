@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1655441804,
+	"version": 1655461569,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -72,6 +72,10 @@
 		"images/hud_ame_panel-sheet0.png",
 		"images/button_lang-sheet0.png",
 		"images/wait-sheet0.png",
+		"images/goal_text-sheet0.png",
+		"images/upgrade_panel-sheet0.png",
+		"images/button_info-sheet0.png",
+		"images/button_upgrade_buy-sheet0.png",
 		"media/kick.ogg",
 		"icon-16.png",
 		"icon-32.png",
