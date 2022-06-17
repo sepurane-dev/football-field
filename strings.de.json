@@ -1,0 +1,15 @@
+{"c2dictionary":true,"data":{
+
+"ui_play":				"Spielen",
+"ui_settings":			"Einstellungen",
+"ui_upgrade":			"Upgrade",
+"ui_music":				"Musik",
+"ui_sound":				"Klang",
+"ui_vibration":			"Vibration",
+"ui_screen_shake":		"Shake",
+"ui_language":			"Sprache",
+"ui_reset_progress":	"Fortschritt zurücksetzen",
+"ui_select_team":		"Team auswählen",
+"ui_select_difficulty":	"Wählen Sie Schwierigkeit"
+
+}}

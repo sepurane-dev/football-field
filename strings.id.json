@@ -1,0 +1,15 @@
+{"c2dictionary":true,"data":{
+
+"ui_play":				"Main",
+"ui_settings":			"Pengaturan",
+"ui_upgrade":			"Tingkatkan",
+"ui_music":				"Musik",
+"ui_sound":				"Suara",
+"ui_vibration":			"Getaran",
+"ui_screen_shake":		"Goyangan Layar",
+"ui_language":			"Bahasa",
+"ui_reset_progress":	"Setel Ulang Progres",
+"ui_select_team":		"Pilih Tim",
+"ui_select_difficulty":	"Pilih Kesulitan"
+
+}}

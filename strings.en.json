@@ -1,0 +1,15 @@
+{"c2dictionary":true,"data":{
+
+"ui_play":				"Play",
+"ui_settings":			"Settings",
+"ui_upgrade":			"Upgrade",
+"ui_music":				"Music",
+"ui_sound":				"Sound",
+"ui_vibration":			"Vibration",
+"ui_screen_shake":		"Screen Shake",
+"ui_language":			"Language",
+"ui_reset_progress":	"Reset Progress",
+"ui_select_team":		"Select Team",
+"ui_select_difficulty":	"Select Difficulty"
+
+}}
