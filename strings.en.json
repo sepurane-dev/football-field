@@ -12,6 +12,8 @@
 "ui_select_team":		"Select Team",
 "ui_select_difficulty":	"Select Difficulty",
 "ui_upgrade_power":		"Power",
-"ui_upgrade_stamina":	"Stamina"
+"ui_upgrade_stamina":	"Stamina",
+"ui_info_pow":			"The opponent's stamina decreases more when hit by the ball from the team",
+"ui_info_sta":			"Increase team stamina"
 
 }}

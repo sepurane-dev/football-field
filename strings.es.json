@@ -12,6 +12,8 @@
 "ui_select_team":		"Seleccionar Equipo",
 "ui_select_difficulty":	"Seleccionar Dificultad",
 "ui_upgrade_power":		"Fuerza",
-"ui_upgrade_stamina":	"Aguante"
+"ui_upgrade_stamina":	"Aguante",
+"ui_info_pow":			"La resistencia del oponente disminuye más cuando es golpeado por la pelota del equipo",
+"ui_info_sta":			"Aumentar la resistencia del equipo"
 
 }}

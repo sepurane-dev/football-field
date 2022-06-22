@@ -12,6 +12,8 @@
 "ui_select_team":		"Team auswählen",
 "ui_select_difficulty":	"Wählen Sie Schwierigkeit",
 "ui_upgrade_power":		"Macht",
-"ui_upgrade_stamina":	"Ausdauer"
+"ui_upgrade_stamina":	"Ausdauer",
+"ui_info_pow":			"Die Ausdauer des Gegners nimmt stärker ab, wenn er vom Ball der Mannschaft getroffen wird",
+"ui_info_sta":			"Teamausdauer steigern"
 
 }}

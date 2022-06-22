@@ -12,6 +12,8 @@
 "ui_select_team":		"Pilih Tim",
 "ui_select_difficulty":	"Pilih Kesulitan",
 "ui_upgrade_power":		"Tenaga",
-"ui_upgrade_stamina":	"Stamina"
+"ui_upgrade_stamina":	"Stamina",
+"ui_info_pow":			"Stamina lawan berkurang lebih banyak saat terkena bola dari tim",
+"ui_info_sta":			"Menambah stamina tim"
 
 }}
