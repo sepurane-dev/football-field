@@ -14,6 +14,10 @@
 "ui_upgrade_power":		"Tenaga",
 "ui_upgrade_stamina":	"Stamina",
 "ui_info_pow":			"Stamina lawan berkurang lebih banyak saat terkena bola dari tim",
-"ui_info_sta":			"Menambah stamina tim"
+"ui_info_sta":			"Menambah stamina tim",
+"pop_reset_text1":		"Semua progres akan hilang",
+"pop_reset_text2":		"Apakah kamu yakin?",
+"pop_reset_confirm":	"Iya",
+"pop_reset_cancel":		"Tidak"
 
 }}

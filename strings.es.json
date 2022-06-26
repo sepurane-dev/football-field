@@ -14,6 +14,10 @@
 "ui_upgrade_power":		"Fuerza",
 "ui_upgrade_stamina":	"Aguante",
 "ui_info_pow":			"La resistencia del oponente disminuye más cuando es golpeado por la pelota del equipo",
-"ui_info_sta":			"Aumentar la resistencia del equipo"
+"ui_info_sta":			"Aumentar la resistencia del equipo",
+"pop_reset_text1":		"Todo el progreso se perderá",
+"pop_reset_text2":		"¿Está seguro?",
+"pop_reset_confirm":	"Sí",
+"pop_reset_cancel":		"No"
 
 }}

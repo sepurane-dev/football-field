@@ -14,6 +14,10 @@
 "ui_upgrade_power":		"Macht",
 "ui_upgrade_stamina":	"Ausdauer",
 "ui_info_pow":			"Die Ausdauer des Gegners nimmt stärker ab, wenn er vom Ball der Mannschaft getroffen wird",
-"ui_info_sta":			"Teamausdauer steigern"
+"ui_info_sta":			"Teamausdauer steigern",
+"pop_reset_text1":		"Alle Fortschritte gehen verloren",
+"pop_reset_text2":		"Bist du dir sicher?",
+"pop_reset_confirm":	"Ja",
+"pop_reset_cancel":		"Nein"
 
 }}

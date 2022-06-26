@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1655912270,
+	"version": 1656258806,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,7 +68,6 @@
 		"images/loading_bar.png",
 		"images/loading_bar_border-sheet0.png",
 		"images/button_upgrade-sheet0.png",
-		"images/button_pause-sheet0.png",
 		"images/hud_gem_panel-sheet0.png",
 		"images/hud_ame_panel-sheet0.png",
 		"images/button_lang-sheet0.png",
@@ -86,6 +85,11 @@
 		"images/splash_ball-sheet0.png",
 		"images/splash_title-sheet0.png",
 		"images/splash_mask.png",
+		"images/pop_reset-sheet0.png",
+		"images/pop_reset_cancel-sheet0.png",
+		"images/pop_reset_confirm-sheet0.png",
+		"images/trans_white.png",
+		"images/camera-sheet0.png",
 		"media/kick.ogg",
 		"icon-16.png",
 		"icon-32.png",
