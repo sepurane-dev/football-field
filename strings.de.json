@@ -1,23 +1,24 @@
-{"c2dictionary":true,"data":{
-
-"ui_play":				"Spielen",
-"ui_settings":			"Einstellungen",
-"ui_upgrade":			"Upgrade",
-"ui_music":				"Musik",
-"ui_sound":				"Klang",
-"ui_vibration":			"Vibration",
-"ui_screen_shake":		"Shake",
-"ui_language":			"Sprache",
-"ui_reset_progress":	"Fortschritt zurücksetzen",
-"ui_select_team":		"Team auswählen",
-"ui_select_difficulty":	"Wählen Sie Schwierigkeit",
-"ui_upgrade_power":		"Macht",
-"ui_upgrade_stamina":	"Ausdauer",
-"ui_info_pow":			"Die Ausdauer des Gegners nimmt stärker ab, wenn er vom Ball der Mannschaft getroffen wird",
-"ui_info_sta":			"Teamausdauer steigern",
-"pop_reset_text1":		"Alle Fortschritte gehen verloren",
-"pop_reset_text2":		"Bist du dir sicher?",
-"pop_reset_confirm":	"Ja",
-"pop_reset_cancel":		"Nein"
-
-}}
+{
+    "c2dictionary": true,
+    "data": {
+        "ui_play": "Spielen",
+        "ui_settings": "Einstellungen",
+        "ui_upgrade": "Upgrade",
+        "ui_music": "Musik",
+        "ui_sound": "Klang",
+        "ui_vibration": "Vibration",
+        "ui_screen_shake": "Bildschirm wackeln",
+        "ui_language": "Sprache",
+        "ui_reset_progress": "Fortschritt zurücksetzen",
+        "ui_select_team": "Team auswählen",
+        "ui_select_difficulty": "Wählen Sie Schwierigkeit",
+        "ui_upgrade_power": "Macht",
+        "ui_upgrade_stamina": "Ausdauer",
+        "ui_info_pow": "Die Ausdauer des Gegners nimmt stärker ab, wenn er vom Ball der Mannschaft getroffen wird",
+        "ui_info_sta": "Teamausdauer steigern",
+        "pop_reset_text1": "Alle Fortschritte gehen verloren",
+        "pop_reset_text2": "Bist du dir sicher?",
+        "pop_reset_confirm": "Ja",
+        "pop_reset_cancel": "Nein"
+    }
+}
